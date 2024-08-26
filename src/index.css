@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Russo+One');
+body {
+  font-family: Russo One;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
