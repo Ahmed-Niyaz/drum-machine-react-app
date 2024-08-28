@@ -17,13 +17,6 @@ This project is a simple drum machine built using React. It allows users to play
 - **Drum Pads: Click or press the corresponding key to play a sound.**
 - **Switch Sound Banks: Toggle between different sets of sounds for varied audio output.**
 
-## Files
-
-- **App.jsx**: The main React component that renders the drum machine interface and handles user interactions.
-- **data.js**: Contains the sound data used in the app, including key codes, IDs, and URLs for the sounds.
-- **index.css**: Defines the styling for the app, including imported fonts and Tailwind CSS utilities.
-- **main.jsx**: The entry point of the React application.
-
 ## Getting Started
 
 Follow these steps to set up and run the project locally.
