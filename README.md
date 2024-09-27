@@ -1,6 +1,6 @@
 # Drum Machine App
 
-This project is a simple drum machine built using React. It allows users to play different sounds by clicking buttons or pressing corresponding keys on the keyboard.
+This is a simple drum machine built using React. It allows users to play different sounds by clicking buttons or pressing corresponding keys on the keyboard.
 
 ## Demo
 
